@@ -4,12 +4,7 @@ Here are the languages and tools I use:
 
 ## 🔧 Skills & Tools
 
-![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 ## 📊 GitHub Stats
 
@@ -17,5 +12,5 @@ Here are the languages and tools I use:
 
 ## 📫 Contact
 
-- Email: [your.email@example.com](mailto:sharvani11620@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sharvani123)
+- Email: [Email](mailto:sharvani11620@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sharvani123)
