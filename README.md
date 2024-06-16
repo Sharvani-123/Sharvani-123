@@ -9,7 +9,8 @@ Here are the languages and tools I use:
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharvani-123&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 ## 📫 Contact
 
 [![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:sharvani11620@gmail.com)
