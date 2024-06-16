@@ -12,5 +12,5 @@ Here are the languages and tools I use:
 
 ## 📫 Contact
 
-- Email: [Email](mailto:sharvani11620@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sharvani123)
+[![Email](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:sharvani11620@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/sharvani123)
