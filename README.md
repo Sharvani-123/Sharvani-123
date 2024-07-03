@@ -5,6 +5,7 @@ Here are the languages and tools I use:
 ## 🔧 Skills & Tools
 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/python.png"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/?size=48&id=J0SgMWzAxqFj&format=png"/>
+<img src="https://img.icons8.com/?size=48&id=vinpBD5oA3b4&format=png"/>
 
 ## 📊 GitHub Stats
 
