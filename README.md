@@ -2,7 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sharvani-123&color=blue&style=flat)
 
-Here are the languages and tools I use:
+I'm a Computer Science undergrad passionate about solving real-world problems through code. My journey so far includes:
+
+🔧 Building full-stack web applications with React.js, Express.js, Firebase, and MongoDB
+
+💻 Practicing Data Structures & Algorithms
+
+🧠 Exploring System Design (HLD & LLD) and backend fundamentals
+
+🎯 Participating in hackathons and contributing to impactful projects
+
+I love blending logic with creativity, and I'm always excited to learn, build, and grow with the developer community.
 
 ## 🔧 Skills & Tools
 
